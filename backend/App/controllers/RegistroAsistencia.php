@@ -395,7 +395,7 @@ html;
         $pdf->AddPage();
         $pdf->SetFont('Arial', 'B', 8);    //Letra Arial, negrita (Bold), tam. 20
         $pdf->SetFont('Arial', 'B', 12);
-        $pdf->Image('qrs/gafetes/'.$clave.'.png',50.5,190,22,0,'PNG');
+        $pdf->Image('qrs/gafetes/'.$clave.'.png',57.5,190,20,0,'PNG');
         $pdf->SetFont('Arial', 'B', 12);
         // $pdf->Multicell(133, 80, $clave_ticket, 0, 'C');
 
@@ -405,8 +405,8 @@ html;
         //$num_linea =utf8_decode("Línea: 39");
         //$num_linea2 =utf8_decode("Línea: 39");
 
-        $pdf->setXY(20,215);
-        $pdf->SetFont('Times','B',14);
+        $pdf->setXY(27,215);
+        $pdf->SetFont('Times','B',12);
         #4D9A9B
         $pdf->SetTextColor(0, 0, 0);
         $pdf->SetLeftMargin(0);
