@@ -667,7 +667,7 @@ html;
 html;
             } else {
                 $estatus .= <<<html
-                <span class="badge badge-success">Inactivo</span>
+                <span class="badge badge-success">Registrado</span>
 html;
             }
 
@@ -852,7 +852,7 @@ html;
 html;
             } else {
                 $estatus .= <<<html
-                <span class="badge badge-success">Inactivo</span>
+                <span class="badge badge-success">Registrado</span>
 html;
             }
 
@@ -905,7 +905,7 @@ html;
 
             <a href="/Constancias/abrirConstancia/{$value['clave']}/{$value['politica']}" class="btn bg-pink btn-icon-only text-white" title="Imprimir Constancia Impresa" data-bs-placement="top" data-bs-toggle="tooltip" data-bs-placement="top" data-bs-original-title="Imprimir Constancia Impresa" target="_blank"><i class="fas fa-print"> </i></a>
             
-            <a href="/Constancias/abrirConstanciaDigital/{$value['clave']}/{$value['politica']}" class="btn bg-yellow btn-icon-only text-white" title="Imprimir Constancia Digital" data-bs-placement="top" data-bs-toggle="tooltip" data-bs-placement="top" data-bs-original-title="Imprimir Constancia Digital" target="_blank"><i class="fas fa-file"> </i></a>
+            <!--<a href="/Constancias/abrirConstanciaDigital/{$value['clave']}/{$value['politica']}" class="btn bg-yellow btn-icon-only text-white" title="Imprimir Constancia Digital" data-bs-placement="top" data-bs-toggle="tooltip" data-bs-placement="top" data-bs-original-title="Imprimir Constancia Digital" target="_blank"><i class="fas fa-file"> </i></a>-->
 
           </td>
         </tr>
