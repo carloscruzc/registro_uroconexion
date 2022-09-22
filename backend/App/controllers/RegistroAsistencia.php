@@ -414,7 +414,7 @@ html;
         $pdf->SetRightMargin(0);
         $pdf->SetAutoPageBreak(true,25);
         $pdf->SetMargins(30, 25, 30, 10);
-        $pdf->Multicell(85.8,10, utf8_decode($nombre_completo), 0, 'C');
+        $pdf->Multicell(90.8,10, utf8_decode($nombre_completo), 0, 'C');
         $pdf->output();     
     }
 
