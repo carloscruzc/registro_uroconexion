@@ -406,7 +406,7 @@ html;
         //$num_linea2 =utf8_decode("Línea: 39");
 
         $pdf->setXY(27,215);
-        $pdf->SetFont('Times','B',12);
+        $pdf->SetFont('Times','B',11);
         #4D9A9B
         $pdf->SetTextColor(0, 0, 0);
         $pdf->SetLeftMargin(0);
@@ -414,7 +414,7 @@ html;
         $pdf->SetRightMargin(0);
         $pdf->SetAutoPageBreak(true,25);
         $pdf->SetMargins(30, 25, 30, 10);
-        $pdf->Multicell(80.8,7, utf8_decode($nombre_completo), 0, 'C');
+        $pdf->Multicell(85.8,10, utf8_decode($nombre_completo), 0, 'C');
         $pdf->output();     
     }
 
