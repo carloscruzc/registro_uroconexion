@@ -1,6 +1,6 @@
 <?php echo $header; ?>
 <title>
-    Administradores - GASTRO 365 - GRUPO LAHE
+    Administradores - UROCONEXION - GRUPO LAHE
 </title>
 
 <body class="bg-white-aside g-sidenav-show  bg-gray-100">

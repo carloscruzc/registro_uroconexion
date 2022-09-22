@@ -41,7 +41,7 @@
                             <div class="card card-plain mt-8">
                                 <div class="card-header pb-0 text-start">
                                     <h3 class="font-weight-bolder morado-musa-text">GRUPO LAHE 2022</h3>
-                                    <h5 class="font-weight-bolder morado-musa-text">Administrador GASTRO 365</h5>
+                                    <h5 class="font-weight-bolder morado-musa-text">Administrador UROCONEXION</h5>
                                     <p class="mb-0">Introduce tus credenciales para iniciar sesión.</p>
                                 </div>
                                 <div class="card-body">

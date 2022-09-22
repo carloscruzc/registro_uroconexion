@@ -23,7 +23,7 @@ echo $header;
 
                                                             <div class="row text-center mt-4">
                                                                 <div class="col-10 mx-auto">
-                                                                    <h5 class="font-weight-normal"><strong>Gastro 365 2022
+                                                                    <h5 class="font-weight-normal"><strong>UROCONEXION 2022
                                                                         </strong></h5>
                                                                     <p>Coloque el puntaje a cada uno de los siguientes ítems, donde (Cara feliz) es “totalmente satisfecho” y (cara triste) es “nada satisfecho”.</p>
                                                                 </div>
@@ -909,7 +909,7 @@ echo $header;
                                                                             </li>
 
                                                                             <li>
-                                                                                <p>7. Desde el punto de vista científico, volvería a participar en el evento Gastro 365?</p>
+                                                                                <p>7. Desde el punto de vista científico, volvería a participar en el evento UROCONEXION?</p>
                                                                                 <div class="row mt-4 d-flex justify-content-center text-center">
                                                                                     <div class="col-sm-1 ">
                                                                                         <input type="radio" class="btn-check btn-face-" id="btncheck150" name="group39" required value="si">

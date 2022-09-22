@@ -1,6 +1,6 @@
 <?php echo $header; ?>
 <title>
-    Pruebas Covid en Sitio - ASOFARMA UROLOGÍA - GRUPO LAHE
+    Pruebas Covid en Sitio - UROCONEXION - GRUPO LAHE
 </title>
 
 <body class="g-sidenav-show  bg-gray-100">

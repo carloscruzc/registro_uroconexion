@@ -1,7 +1,11 @@
 <?php echo $header;?>
 <title>
-    Asistentes - GASTRO 365 - GRUPO LAHE    
+    Asistentes - UROCONEXION - GRUPO LAHE    
 </title>
+<style>
+    table.dataTable tbody tr:nth-child(even) {background: #ebebeb}
+    table.dataTable tbody tr:nth-child(odd) {background: #ffffff}
+</style>
 <body class="g-sidenav-show  bg-gray-100">
     <?php echo $asideMenu;?>
     <main class="main-content position-relative max-height-vh-100 h-100 border-radius-lg ">
@@ -90,7 +94,7 @@
                         <div class="col-auto my-auto">
                             <div class="h-100">
                                 <h5 class="mb-1">
-                                    Invitados GASTRO 365
+                                    Invitados UROCONEXION
                                 </h5>
                                 <p class="mb-0 font-weight-bold text-sm">
                                 </p>
